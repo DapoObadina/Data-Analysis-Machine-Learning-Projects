@@ -16,6 +16,6 @@ This Repository contains projects I have worked on over time. Please see below a
   • E-Commerce ETL End - To - End Project (Python Jupyter Notebook)
 
 5. Customer Segmentation Project – Carried out data analysis on a real-world dataset completing tasks such as, Data Quality Assessment, Business Performance Analysis with Python & Power Bi, Customer Segmentation using Recency, Frequency & Monetary(RFM), K-Means Clustering and other Machine Learning  Models  
-  • KPMGProject (Python Jupyter Notebook)
+  • SegmentationProject (Python Jupyter Notebook)
   • NewCustomerData (CSV file showing result of supervised learning predicting segment of new customers)
   • SegmentationData (CSV file showing result of unsupervised learning predicting clusters customers fall under)
