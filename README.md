@@ -19,3 +19,7 @@ This Repository contains projects I have worked on over time. Please see below a
   • Sprocket Customer Segmentation Project (Python Jupyter Notebook)
   • NewCustomerData (CSV file showing result of supervised learning predicting segment of new customers)
   • SegmentationData (CSV file showing result of unsupervised learning predicting clusters customers fall under)
+  
+6.  Financial Performance Analysis: Analyzed a food and drink retail company's Revenue and Margin and also an Income Statement analysis for the period of 1 year using PowerBi.
+  • Revenue and Margin Dashboard
+  • Income Statement Dashboard
